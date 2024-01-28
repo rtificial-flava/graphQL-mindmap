@@ -1,3 +1,21 @@
 # graphQL-mindmap
 A mindmap for finding, testing and exploiting graphQL vulnerabilities for remedation.
+
+ This is a mindmap using the xmind app for a visual walkthrough and checklist for GraphQL testing.  Xmind is a free app with paid addons but it is completely usable in the free form.
+ You can get your copy here. https://xmind.app/
+
+ A lot of the ideas/material is condendsed information from the great resource book Black Hat GraphQL (2023) by Dolev Farhi, Nick Aleks.
+ You can find the book here or when it shows up in humble bundles.  https://nostarch.com/black-hat-graphql
+ 
+ They have a github companion to the book with a lot of tools, resources and information which is super helpful.
+ Give it a star and follow here https://github.com/dolevf/Black-Hat-GraphQL
+
+ This mindmap is a work in progress as I go through the book and encounter GraphQL API's in pentests.  I'll update with more content and revisions as I further my understanding.
+
+ To get the most out of this mindmap it's recommended you download the mindmap file.  Then you can Copy n Paste queries and cmds included, goto links for tools, add your own content or edit the mindmap to your personal satisfaction.
+
+ The mindmap is meant to be followed from top downward.  Starting with the mindset to find GraphQL api's, first queries to identify types and information of the GraphQL API, mapping the API and then testing.
+
+ Hopefully this will help you develope a workflow for testing GraphQL for vulnerabilities.  Pentests can be overwhelming when the scope is big.  API's can be overwhelming when there a lot of endpoints and all the pieces are connected in various ways.  This should help you stay focused, work through a checklist, keep things visually understandable, make sure things are not missed or not tested.  So happy hacking!
+ 
 ![GraphQL hacking](https://github.com/rtificial-flava/graphQL-mindmap/assets/77560187/17499276-49c3-485c-b769-f3e38688ce55)
