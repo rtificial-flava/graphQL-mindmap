@@ -33,9 +33,10 @@
 > - stay focused
 > - work through a checklist
 > - keep things visually understandable
-> - make sure things are not missed or not tested.
+> - check things are not missed or overlooked.
 
 So happy hacking!
  
-![GraphQL hacking](https://github.com/rtificial-flava/graphQL-mindmap/assets/77560187/6beb7468-8f8f-40e9-b18c-6061fa7275f8)
+![GraphQL hacking](![GraphQL hacking](https://github.com/rtificial-flava/graphQL-mindmap/assets/77560187/51aeb2b1-d297-4665-bf21-af7ea7a5a1e7)
+)
 
