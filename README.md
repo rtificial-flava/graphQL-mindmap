@@ -4,7 +4,7 @@
  This is a mindmap using the xmind app for a visual walkthrough and checklist for GraphQL testing.  Xmind is a free app with paid addons but it is completely usable in the free form.
  You can get your copy here. https://xmind.app/
 
- A lot of the ideas/material is condendsed information from the great resource book Black Hat GraphQL (2023) by Dolev Farhi, Nick Aleks @dolevf 
+ A lot of the ideas/material is condendsed information from the great resource book Black Hat GraphQL (2023) by Dolev Farhi, Nick Aleks @dolevf @nicholasaleks  
  You can find the book here or when it shows up in humble bundles.  https://nostarch.com/black-hat-graphql
  
  They have a github companion to the book with a lot of tools, resources and information which is super helpful.
