@@ -37,6 +37,7 @@
 
 So happy hacking!
  
-![GraphQL hacking](https://github.com/rtificial-flava/graphQL-mindmap/assets/77560187/51aeb2b1-d297-4665-bf21-af7ea7a5a1e7)
+![GraphQL hacking](https://github.com/rtificial-flava/graphQL-mindmap/assets/77560187/24b1b4ed-4697-4c31-ad07-220e96054209)
+
 
 
