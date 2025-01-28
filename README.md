@@ -28,6 +28,8 @@
    * deeper details on info above
  - Mapping the API
  - Then testing for vulnerabilities.
+   * Auth testing
+   * Injections.
 
 > Hopefully this will help you develop a workflow for testing GraphQL for vulnerabilities.  Pentests can be overwhelming when the scope is big.  API's can be overwhelming when there are a lot of endpoints and all the pieces are connected in various ways.  This should help you
 > - stay focused
@@ -37,7 +39,7 @@
 
 So happy hacking!
  
-![GraphQL hacking](https://github.com/rtificial-flava/graphQL-mindmap/assets/77560187/5986e782-05e2-4683-a72c-4e4e8158cbef)
+![GraphQL hacking](https://github.com/user-attachments/assets/2f9fe877-6b6d-44bd-9a16-23a23b37dcf4)
 
 
 
