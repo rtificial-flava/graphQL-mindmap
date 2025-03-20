@@ -29,7 +29,8 @@
  - Mapping the API
  - Then testing for vulnerabilities.
    * Auth testing
-   * Injections.
+   * Injections
+   * Request forgery
 
 > Hopefully this will help you develop a workflow for testing GraphQL for vulnerabilities.  Pentests can be overwhelming when the scope is big.  API's can be overwhelming when there are a lot of endpoints and all the pieces are connected in various ways.  This should help you
 > - stay focused
