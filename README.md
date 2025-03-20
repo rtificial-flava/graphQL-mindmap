@@ -40,7 +40,8 @@
 
 So happy hacking!
  
-![GraphQL hacking](https://github.com/user-attachments/assets/2f9fe877-6b6d-44bd-9a16-23a23b37dcf4)
+![GraphQL hacking](https://github.com/user-attachments/assets/85010856-44c6-4c0c-be72-4007e6b92e1e)
+
 
 
 
